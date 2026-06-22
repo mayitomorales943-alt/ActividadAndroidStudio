@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sena_green">#0B8F2A</color>
+    <color name="sena_green_dark">#05651D</color>
+    <color name="surface">#F6F8F7</color>
+    <color name="text_primary">#1D1F20</color>
+</resources>

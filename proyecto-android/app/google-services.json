@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145323568061",
+    "project_id": "actividadandroidstudio",
+    "storage_bucket": "actividadandroidstudio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145323568061:android:f9fbdf955fe2519e00c0d4",
+        "android_client_info": {
+          "package_name": "com.sena.actividadandroidstudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJvw37CDNlMOjeNY10Fzi7xtMhdZy0mo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
